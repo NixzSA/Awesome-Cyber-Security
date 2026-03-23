@@ -18,3 +18,4 @@ Coleção de ferramentas, scripts, recursos e materiais educativos sobre **Cyber
 | OSINT Email Checker | Verifica vazamentos públicos de e-mail (API simulada) |
 | File Integrity Monitor | Monitora alterações em arquivos |
 | Log Analyzer | Identifica padrões suspeitos em logs |
+(algo básico, apenas para não ter um perfil vazio).
